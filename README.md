@@ -16,7 +16,7 @@
 
 This is a project developed on Stage 2 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects [click on this link](https://github.com/jeadamek/explorer-rocketseat).
 
-On this challenge, it was requested to fix a landing page. The HTML file's semantic and structure was all messed up, and the goal was to fix it.
+In this challenge, it was requested to fix a landing page. The HTML file's semantic and structure was all messed up, and the goal was to fix it.
 
 I could practice and study:
 
