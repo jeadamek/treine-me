@@ -46,6 +46,8 @@ To access the project, click on the link below:
 
 ## 🎨 Layout
 
+To access the project's layout in Figma, click on the link below:
+
 🔗[View on Figma](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1)
 
 
