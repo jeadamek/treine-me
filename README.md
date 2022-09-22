@@ -1,1 +1,43 @@
-# treine-me
+<div align="center">
+   <img src="https://www.rocketseat.com.br/assets/logos/explorer.svg" />
+</div>
+   <h3 align="center">🚀 Project 02 | Stage 02 - Explorer</h3>
+
+
+## ✏️ About
+
+This is a project developed on Stage 2 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects [click on this link](https://github.com/jeadamek/explorer-rocketseat).
+
+On this challenge, it was requested to fix a landing page. The HTML file's semantic and structure was all messed up, and the goal was to fix it.
+
+I could practice and study:
+
+- HTML structure;
+- HTML semantics;
+- HTML accessibility;
+
+<br/>
+
+![Preview](https://user-images.githubusercontent.com/78454317/191859444-3934af88-d4f9-490a-9755-99d9874b2513.png)
+
+
+## 🛠️ Technologies
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
+
+
+## 💻 How to use
+
+To access the project, click on the link below:
+
+🔗 [Click here to access](https://jeadamek.github.io/treine-me/)
+
+
+## 🎨 Layout
+
+🔗[View on Figma](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1)
+
+
