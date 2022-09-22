@@ -2,7 +2,15 @@
    <img src="https://www.rocketseat.com.br/assets/logos/explorer.svg" />
 </div>
    <h3 align="center">🚀 Project 02 | Stage 02 - Explorer</h3>
+<div align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jeadamek/treine-me">
 
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/jeadamek/treine-me">
+  
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jeadamek/treine-me?color=%231280BF">
+  
+ <!-- <a href="https://jeadamek.github.io/treine-me/"> ▶️ Access Project </a> -->
+</div>   
 
 ## ✏️ About
 
