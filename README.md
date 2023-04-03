@@ -15,7 +15,7 @@
 </div>   
 ## ✏️ About
 
-This project was developed on Stage 2 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's assignments click on [this link](https://github.com/jeadamek/explorer-rocketseat).
+This project was developed on Stage 2 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's assignments click this [link](https://github.com/jeadamek/explorer-rocketseat).
 
 In this challenge, it was requested to fix a landing page. The HTML file's semantics and structure were all messed up, and the goal was to fix it.
 
